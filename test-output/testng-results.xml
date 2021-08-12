@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-04T06:11:23 EET" name="Free CRM Application test" finished-at="2021-08-04T06:15:08 EET" duration-ms="225016">
+    <groups>
+    </groups>
+    <test started-at="2021-08-04T06:11:23 EET" name="end to end test on chrome" finished-at="2021-08-04T06:15:08 EET" duration-ms="225016">
+      <class name="com.freecrm.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:20 EET" name="setup" finished-at="2021-08-04T06:14:27 EET" duration-ms="7438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.titleTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleTest()[pri:1, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:27 EET" name="titleTest" finished-at="2021-08-04T06:14:27 EET" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:27 EET" name="tearDown" finished-at="2021-08-04T06:14:31 EET" duration-ms="3544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.titleTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:31 EET" name="setup" finished-at="2021-08-04T06:14:38 EET" duration-ms="7672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.urlCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="urlCheck()[pri:2, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:38 EET" name="urlCheck" finished-at="2021-08-04T06:14:38 EET" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlCheck -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:38 EET" name="tearDown" finished-at="2021-08-04T06:14:42 EET" duration-ms="3511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.urlCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:42 EET" name="setup" finished-at="2021-08-04T06:14:48 EET" duration-ms="6550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.logoTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoTest()[pri:3, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:48 EET" name="logoTest" finished-at="2021-08-04T06:14:49 EET" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:49 EET" name="tearDown" finished-at="2021-08-04T06:14:52 EET" duration-ms="3471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.logoTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:52 EET" name="setup" finished-at="2021-08-04T06:14:59 EET" duration-ms="6455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:4, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:14:59 EET" name="loginTest" finished-at="2021-08-04T06:15:05 EET" duration-ms="6380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.LoginPageTest@28f3b248]" started-at="2021-08-04T06:15:05 EET" name="tearDown" finished-at="2021-08-04T06:15:08 EET" duration-ms="3224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.LoginPageTest.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.LoginPageTest -->
+      <class name="com.freecrm.testcases.ContactPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:11:24 EET" name="setup" finished-at="2021-08-04T06:12:00 EET" duration-ms="35407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:00 EET" name="addContact" data-provider="TestData" finished-at="2021-08-04T06:12:13 EET" duration-ms="12722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[first name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[last name]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[company]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[department]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method is-config="true" signature="TearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:13 EET" name="TearDown" finished-at="2021-08-04T06:12:17 EET" duration-ms="4701" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:17 EET" name="setup" finished-at="2021-08-04T06:12:34 EET" duration-ms="16399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:34 EET" name="addContact" data-provider="TestData" finished-at="2021-08-04T06:12:46 EET" duration-ms="12254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Eslam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Badawy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valeo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Validation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method is-config="true" signature="TearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:46 EET" name="TearDown" finished-at="2021-08-04T06:12:49 EET" duration-ms="3521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:12:49 EET" name="setup" finished-at="2021-08-04T06:13:08 EET" duration-ms="18691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:13:08 EET" name="addContact" data-provider="TestData" finished-at="2021-08-04T06:13:16 EET" duration-ms="7377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nader]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alawneh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LG]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Leader]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method is-config="true" signature="TearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.ContactPageTest@1e6454ec]" started-at="2021-08-04T06:13:16 EET" name="TearDown" finished-at="2021-08-04T06:13:19 EET" duration-ms="3165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.ContactPageTest.addContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.freecrm.testcases.ContactPageTest -->
+      <class name="com.freecrm.testcases.HomePage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:19 EET" name="setup" finished-at="2021-08-04T06:13:34 EET" duration-ms="15033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnContactsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnContactsTest()[pri:5, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:34 EET" name="ClickOnContactsTest" finished-at="2021-08-04T06:13:36 EET" duration-ms="2274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnContactsTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:36 EET" name="tearDown" finished-at="2021-08-04T06:13:40 EET" duration-ms="3964" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnContactsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:40 EET" name="setup" finished-at="2021-08-04T06:13:55 EET" duration-ms="15398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnDealsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnDealsTest()[pri:6, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:55 EET" name="ClickOnDealsTest" finished-at="2021-08-04T06:13:58 EET" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDealsTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:13:58 EET" name="tearDown" finished-at="2021-08-04T06:14:01 EET" duration-ms="2973" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnDealsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:14:01 EET" name="setup" finished-at="2021-08-04T06:14:15 EET" duration-ms="13831" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnTasksTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnTasksTest()[pri:7, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:14:15 EET" name="ClickOnTasksTest" finished-at="2021-08-04T06:14:17 EET" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTasksTest -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:com.freecrm.testcases.HomePage@483f6d77]" started-at="2021-08-04T06:14:17 EET" name="tearDown" finished-at="2021-08-04T06:14:20 EET" duration-ms="3026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.freecrm.testcases.HomePage.ClickOnTasksTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.HomePage -->
+    </test> <!-- end to end test on chrome -->
+  </suite> <!-- Free CRM Application test -->
+</testng-results>
